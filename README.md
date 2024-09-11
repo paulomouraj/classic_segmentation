@@ -7,7 +7,7 @@ The goal of this project was to implement a segmentation pipeline to extract the
 The skin lesion images were taken from ISIC dataset, available on https://challenge.isic-archive.com/data/.
 
 ## Requirements
-* Python 3.10+
+* Python 3.10
 * NumPy 1.26.0
 * Scikit-Image 0.21.0
 * OpenCV 4.8.1
