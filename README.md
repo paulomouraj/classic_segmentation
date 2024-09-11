@@ -16,5 +16,4 @@ The skin lesion images were taken from ISIC dataset, available on https://challe
 Paulo Roberto de Moura Júnior (me)  
 Giovanni Benedetti da Rosa 
 
-## Detailed report
-
+[Detailed description](https://github.com/paulomouraj/classic_skin_segmentation/blob/main/segmentation_skin_lesions_HLD.pdf)
