@@ -1,7 +1,8 @@
 # Segmentation of Skin Lesions with Classical Image Processing Methods
 
 ## Description
-The goal of this project was to implement a segmentation pipeline to extract the lesion area from skin lesions, which can be useful as a pre-processing step for machine learning classification tasks. This project is part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course and its goal was to apply classical image processing tools to solve a real-life problem. The overall average Dice coefficient obtained was 0.870, indicating substantial accuracy and the standard deviation was equal to 0.095. Some examples of the pipeline output are shown below.
+The goal of this project was to implement a segmentation pipeline to extract the lesion area from skin lesions, which can be useful as a pre-processing step for machine learning classification tasks. This project is part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course and its goal was to apply classical image processing tools to solve a real-life problem. The overall average Dice coefficient obtained was 0.870, indicating substantial accuracy and the standard deviation was equal to 0.095.  
+Some examples of the pipeline output are shown below.
 ![Segmentation with skin hair](output/output1.png)
 ![Segmentation without skin hair](output/output2.png)
 
